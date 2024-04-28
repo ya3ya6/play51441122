@@ -1,0 +1,15 @@
+{
+  "articles": {
+    "description": "在这里查看我们所有的文章",
+    "title": "所有文章",
+    "conferenceTitle": "所有科学会议",
+    "conferenceDescription": "在此处查看所有 Pernian 科学会议",
+    "tutorialTitle": "教育视频",
+    "tutorialDescription": "在此处查看所有 Parnian 教育视频"
+  },
+  "conferencesVideo": {
+    "description": "点击这里观看所有科学视频会议",
+    "title": "科学会议的最新视频"
+  },
+  "tutorialVideo": { "description": "单击此处观看所有教学视频", "title": "最新的教学视频" }
+}

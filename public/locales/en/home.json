@@ -1,0 +1,19 @@
+{
+  "about": { "title": "about us" },
+  "articles": { "button": "see all articles", "title": "latest articles" },
+  "comments": { "button": "see all comments", "title": "customers comments" },
+  "news": { "button": "see all news", "title": "our news" },
+  "products": {
+    "button": "see all products",
+    "details": "more details",
+    "order": "product order",
+    "title": "our products",
+    "freeCounseling": "free consultation"
+  },
+  "statistics": {
+    "articles": "articles",
+    "satisfaction": "satisfaction",
+    "products": "products",
+    "services": "services"
+  }
+}

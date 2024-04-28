@@ -1,0 +1,27 @@
+{
+  "details": {
+    "author": "yazar",
+    "category": "kategori",
+    "date": "Yayın tarihi",
+    "shareMessage": "Makale bağlantısı başarıyla kopyalandı"
+  },
+  "comments": {
+    "setTitleNormal": "Yorum yap",
+    "setTitleReply": "{{name}} adlı kullanıcının yorumuna yanıt veriyorsunuz",
+    "getTitle": "Bu makaleye yapılan yorumlar",
+    "fullName": "Ad Soyad",
+    "email": "e-posta",
+    "text": "yorum metni",
+    "button": "yorum gönder",
+    "buttonReply": "Cevap Gönder",
+    "reply": "cevap vermek",
+    "cancel": "iptal etmek",
+    "buttonCancel": "iptal etmek",
+    "errorMessage": "İşlem bir hatayla karşılaştı",
+    "successfullyMessage": "Yorumunuz başarıyla kaydedildi, site yöneticisinin onayından sonra görüntülenecektir.."
+  },
+  "aside": {
+    "relatedPsts": "İlgili Mesajlar",
+    "studyGuide": "çalışma Rehberi"
+  }
+}

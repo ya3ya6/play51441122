@@ -1,0 +1,136 @@
+{
+  "notification": {
+    "title": "Your messages",
+    "alert": {
+      "title": "There is no message",
+      "text": "There are no new messages or notifications"
+    }
+  },
+  "info": {
+    "title": "Personal Information",
+    "message": {
+      "success": "Your information has been successfully updated.",
+      "changePasswordSuccess": "Password changed successfully",
+      "RequestCodeSuccess": "The verification code has been successfully sent to you",
+      "doneCode": "The verification code has been registered successfully"
+    },
+    "form": {
+      "fName": "First name",
+      "lName": "Last name",
+      "verificationCode": "Verification code",
+      "email": "email",
+      "gender": {
+        "label": "gender",
+        "male": "male",
+        "female": "female"
+      },
+      "nationalCode": "National Code",
+      "country": "country",
+      "address": "address",
+      "company": "Company or clinic name",
+      "mobilePhone": "phone number",
+      "tell": "tell",
+      "button": {
+        "changePassword": "change Password",
+        "changePhoneNumber": "change phone number",
+        "editProfile": "edit profile",
+        "requestCode": "Request code",
+        "done": "done"
+      }
+    },
+    "changePhoneNumberTitle": "Edit mobile number",
+    "changePasswordTitle": "Edit password"
+  },
+  "orders": {
+    "title": "List of orders",
+    "summaryButton": "View order summary",
+    "supportName": "Support Name",
+    "moreButton": "View more details",
+    "dateOrder": "Order registration date",
+    "callOrder": "Expert contact date",
+    "orderCode": "Order code",
+    "orderType": {
+      "done": "Consulted by a sales expert",
+      "faild": "Your failure to respond",
+      "expectation": "Awaiting call from sales experts"
+    },
+    "product": {
+      "type": {
+        "title": "product type",
+        "contractual": "contractual"
+      },
+      "name": "product name",
+      "link": "View the product in the store",
+      "download": "Download the product catalog"
+    },
+    "filters": {
+      "title": "filter",
+      "all": "All orders",
+      "call": "Called",
+      "expectation": "Awaiting call",
+      "notAnswered": "Not answered"
+    },
+    "alert": {
+      "title": "Your order list is empty",
+      "text": "You can register your first order by visiting the store"
+    }
+  },
+  "support": {
+    "title": "Support system",
+    "alert": {
+      "title": "There is no ticket",
+      "text": "If you have any questions, register a new ticket and ask your question"
+    },
+    "ticketCloseAlert": {
+      "title": "The ticket is closed",
+      "text": "If there is a new question for you, register a new ticket and if your question is related to the topic of the same ticket, open this ticket again."
+    },
+    "ticketAnsAlert": {
+      "title": "The ticket is waiting for your response"
+    },
+    "ticketOpenAlert": {
+      "title": "Ticket is waiting for support response",
+      "text": "If you cannot wait for an answer, you can call 09302640725 and Please call ext 02144538430 \n {{date}}"
+    },
+    "lastPm": "The date of the last message",
+    "attachmentDownload": "Download the attached file",
+    "message": {
+      "success": "The ticket was sent successfully",
+      "successMessage": "The message was sent successfully",
+      "successClose": "The ticket was closed successfully",
+      "errorClose": "The ticket could not be closed, an error has occurred"
+    },
+    "addTicket": {
+      "title": "Send a new ticket",
+      "button": "New Ticket",
+      "ticketTitle": "Ticket title",
+      "ticketFile": "Attachment",
+      "ticketMessage": "Ticket Message",
+      "submitTicket": "Submit Ticket",
+      "cancel": "cancel"
+    },
+    "addMessage": {
+      "title": "Send a new message",
+      "ticketMessage": "Ticket Message",
+      "ticketFile": "Attachment",
+      "sendMessage": "send message",
+      "cancel": "cancel"
+    },
+    "ticketNumber": "Ticket number",
+    "showMore": "View more details",
+    "closeTicket": "Close The Ticket",
+    "sendMessage": "Send a new message",
+    "openAndSend": "Open a ticket and send a new message",
+    "ticketType": {
+      "close": "Close Ticket",
+      "open": "The ticket has been answered",
+      "await": "Waiting for an answer"
+    },
+    "tabs": {
+      "myTickets": "My tickets",
+      "awaitingTicket": "Tickets awaiting response",
+      "answeredTicket": "Answered tickets",
+      "closedTicket": "Closed tickets"
+    }
+  }
+}

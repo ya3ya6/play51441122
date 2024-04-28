@@ -1,0 +1,136 @@
+{
+  "notification": {
+    "title": "您的留言",
+    "alert": {
+      "title": "没有消息",
+      "text": "没有新消息或通知"
+    }
+  },
+  "info": {
+    "title": "个人信息",
+    "message": {
+      "success": "您的信息已成功更新。",
+      "changePasswordSuccess": "密码修改成功",
+      "RequestCodeSuccess": "验证码已成功发送给您",
+      "doneCode": "验证码已注册成功"
+    },
+    "form": {
+      "fName": "名",
+      "lName": "姓",
+      "verificationCode": "验证码",
+      "email": "电子邮件",
+      "gender": {
+        "label": "性别",
+        "male": "男性",
+        "female": "女性"
+      },
+      "nationalCode": "国家法规",
+      "country": "国家",
+      "address": "地址",
+      "company": "公司或诊所名称",
+      "mobilePhone": "电话号码",
+      "tell": "告诉",
+      "button": {
+        "changePassword": "更改密码",
+        "changePhoneNumber": "更改电话号码",
+        "editProfile": "编辑个人资料",
+        "requestCode": "请求代码",
+        "done": "完毕"
+      }
+    },
+    "changePhoneNumberTitle": "修改手机号码",
+    "changePasswordTitle": "修改密码"
+  },
+  "orders": {
+    "title": "订单清单",
+    "summaryButton": "查看订单摘要",
+    "supportName": "支持名称",
+    "moreButton": "查看更多详情",
+    "dateOrder": "订单登记日期",
+    "callOrder": "专家联系日期",
+    "orderCode": "订购代码",
+    "orderType": {
+      "done": "由销售专家咨询",
+      "faild": "你没有回应",
+      "expectation": "等待销售专家的电话"
+    },
+    "product": {
+      "type": {
+        "title": "产品类别",
+        "contractual": "契约的"
+      },
+      "name": "产品名称",
+      "link": "在商店中查看产品",
+      "download": "下载产品目录"
+    },
+    "filters": {
+      "title": "筛选",
+      "all": "所有订单",
+      "call": "叫",
+      "expectation": "等待电话",
+      "notAnswered": "没有回答"
+    },
+    "alert": {
+      "title": "您的订单列表为空",
+      "text": "您可以通过访问商店注册您的第一个订单"
+    }
+  },
+  "support": {
+    "title": "支撑系统",
+    "alert": {
+      "title": "没有票",
+      "text": "如果您有任何问题，请注册一张新票并提出您的问题"
+    },
+    "ticketCloseAlert": {
+      "title": "票已关闭",
+      "text": "如果您有新问题，请注册一张新票，如果您的问题与同一张票的主题相关，请再次打开此票。"
+    },
+    "ticketAnsAlert": {
+      "title": "票正在等待您的回复"
+    },
+    "ticketOpenAlert": {
+      "title": "工单正在等待支持响应",
+      "text": "如果您不能等待答复，您可以拨打 09302640725 和请拨打分机 02144538430 \n {{date}}"
+    },
+    "lastPm": "最后一条消息的日期",
+    "attachmentDownload": "下载附件",
+    "message": {
+      "success": "票已成功发送",
+      "successMessage": "消息发送成功",
+      "successClose": "工单已成功关闭",
+      "errorClose": "工单无法关闭，发生错误"
+    },
+    "addTicket": {
+      "title": "发送新票",
+      "button": "新票",
+      "ticketTitle": "票名",
+      "ticketFile": "附件",
+      "ticketMessage": "票务留言",
+      "submitTicket": "提交工单",
+      "cancel": "取消"
+    },
+    "addMessage": {
+      "title": "发送新消息",
+      "ticketMessage": "票务留言",
+      "ticketFile": "附件",
+      "sendMessage": "发信息",
+      "cancel": "取消"
+    },
+    "ticketNumber": "票号",
+    "showMore": "查看更多详情",
+    "closeTicket": "关闭票",
+    "sendMessage": "发送新消息",
+    "openAndSend": "打开工单并发送新消息",
+    "ticketType": {
+      "close": "关闭票",
+      "open": "票已答复",
+      "await": "等待答案"
+    },
+    "tabs": {
+      "myTickets": "我的票",
+      "awaitingTicket": "等待回复的票",
+      "answeredTicket": "已回答的票",
+      "closedTicket": "已关闭的门票"
+    }
+  }
+}

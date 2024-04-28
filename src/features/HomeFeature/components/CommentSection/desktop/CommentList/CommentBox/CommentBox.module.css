@@ -1,0 +1,17 @@
+.commentBox:nth-child(odd) {
+  flex-direction: row-reverse;
+}
+.commentBox:nth-child(odd) .textBox {
+  align-items: flex-start;
+  gap: 5px;
+}
+.commentBox:nth-child(even) .textBox {
+  align-items: flex-end;
+  gap: 5px;
+}
+.commentBox:nth-child(odd) .avatarBox {
+  flex-direction: row-reverse;
+}
+.boltWrapper div {
+  margin: 0;
+}

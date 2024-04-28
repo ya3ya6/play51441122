@@ -1,0 +1,22 @@
+{
+  "form": {
+    "button": "mesaj gönder",
+    "email": "e-posta",
+    "message": "Mesajın yeri",
+    "name": "Ad ve soyad"
+  },
+  "validation": {
+    "email": "E-postanızı girmelisiniz",
+    "message": "Mesajınızı girmelisiniz",
+    "name": "Adınızı girmelisiniz"
+  },
+  "hero": {
+    "description": "Aşağıdaki form veya sosyal medya aracılığıyla bize ulaşın",
+    "title": "Bize Ulaşın"
+  },
+  "map": { "title": "Biz burdayız !" },
+  "postalCode": "Posta Kodu",
+  "SocialText": "Sosyal ağlarda bizi takip edin",
+  "errorMsg": "Bir hata oluştu ve mesajınız gönderilemedi",
+  "successMsg": "Mesajınız başarıyla gönderildi"
+}

@@ -1,0 +1,27 @@
+{
+  "details": {
+    "author": "نویسنده",
+    "category": "دسته بندی",
+    "date": "تاریخ انتشار",
+    "shareMessage": "لینک مقاله با موفقیت کپی شد"
+  },
+  "comments": {
+    "setTitleNormal": "ثبت نظر",
+    "setTitleReply": "در حال پاسخ دادن به {{name}}",
+    "getTitle": "نظرات در مورد این مقاله",
+    "fullName": "نام و نام خانوادگی",
+    "email": "ایمیل",
+    "text": "متن نظر",
+    "button": "ارسال نظر",
+    "buttonReply": "ارسال پاسخ",
+    "reply": "پاسخ",
+    "cancel": "انصراف",
+    "buttonCancel": "انصراف",
+    "errorMessage": "عملیات با خطا مواجه شد",
+    "successfullyMessage": "نظر شما با موفقیت ثبت شد، پس از تایید مدیر سایت نمایش داده خواهد شد."
+  },
+  "aside": {
+    "relatedPsts": "پست های مرتبط",
+    "studyGuide": "راهنمای مطالعه"
+  }
+}

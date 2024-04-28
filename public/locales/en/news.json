@@ -1,0 +1,21 @@
+{
+  "allNews": {
+    "description": "see all our news here",
+    "title": "All the news",
+    "videoTitle": "Promotional videos",
+    "videoDescription": "See all our promotional videos here"
+  },
+  "news": {
+    "description": "you will see the latest news from each category",
+    "title": "The latest Parnian news"
+  },
+  "promotional": {
+    "description": "Click to watch all promotional videos",
+    "title": "The latest promotional videos"
+  },
+  "visitedBox": {
+    "title": "Hear from all corners of Parnian company",
+    "description": "On this page, you can find out about the latest news, achievements, reports, news events, etc. of Parnian Gostar Protosanj company.",
+    "button": "View all news"
+  }
+}

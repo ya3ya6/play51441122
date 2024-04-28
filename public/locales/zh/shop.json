@@ -1,0 +1,18 @@
+{
+  "allProducts": { "description": "其他美容和嫩肤产品" },
+  "allproducts": { "title": "美容、复兴和医疗设备" },
+  "banner": { "submitBtn": "产品订单" },
+  "lastProducts": { "description": "查看我们的最新产品", "title": "我们的产品" },
+  "product": {
+    "addButton": "添加到购物车",
+    "endButton": "库存结束",
+    "callButton": "免费电话咨询",
+    "DownloadButton": "下载产品目录",
+    "content": "产品内容",
+    "technical": "技术规格",
+    "comment": {
+      "title": "该产品的买家如何评价 Parnian 公司？",
+      "description": "主办最好的荣誉"
+    }
+  }
+}

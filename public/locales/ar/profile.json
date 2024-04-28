@@ -1,0 +1,136 @@
+{
+  "notification": {
+    "title": "رسائلك",
+    "alert": {
+      "title": "لا توجد رسالة",
+      "text": "لا توجد رسائل أو إخطارات جديدة"
+    }
+  },
+  "info": {
+    "title": "معلومات شخصية",
+    "message": {
+      "success": "تم تحديث المعلومات الخاصة بك بنجاح.",
+      "changePasswordSuccess": "تم تغيير الرقم السري بنجاح",
+      "RequestCodeSuccess": "تم إرسال رمز التحقق إليك بنجاح",
+      "doneCode": "تم تسجيل رمز التحقق بنجاح"
+    },
+    "form": {
+      "fName": "الاسم الاول",
+      "lName": "اللقب",
+      "verificationCode": "رمز التحقق",
+      "email": "البريد الإلكتروني",
+      "gender": {
+        "label": "جنس",
+        "male": "الذكر",
+        "female": "أنثى"
+      },
+      "nationalCode": "رمز دولي",
+      "country": "بلد",
+      "address": "تبوك",
+      "company": "اسم الشركة أو العيادة",
+      "mobilePhone": "رقم الهاتف",
+      "tell": "أقول",
+      "button": {
+        "changePassword": "غير كلمة السر",
+        "changePhoneNumber": "غير رقم الهاتف",
+        "editProfile": "تعديل الملف الشخصي",
+        "requestCode": "كود الطلب",
+        "done": "فعله"
+      }
+    },
+    "changePhoneNumberTitle": "تحرير رقم الهاتف المحمول",
+    "changePasswordTitle": "تحرير كلمة المرور"
+  },
+  "orders": {
+    "title": "قائمة الطلبات",
+    "summaryButton": "عرض ملخص الطلب",
+    "supportName": "اسم الدعم",
+    "moreButton": "عرض مزيد من التفاصيل",
+    "dateOrder": "تاريخ تسجيل الطلب",
+    "callOrder": "تاريخ الاتصال الخبير",
+    "orderCode": "رمز الطلب",
+    "orderType": {
+      "done": "استشارة خبير مبيعات",
+      "faild": "فشلك في الاستجابة",
+      "expectation": "في انتظار مكالمة من خبراء المبيعات"
+    },
+    "product": {
+      "type": {
+        "title": "نوع المنتج",
+        "contractual": "تعاقدي"
+      },
+      "name": "اسم المنتج",
+      "link": "عرض المنتج في المتجر",
+      "download": "قم بتنزيل كتالوج المنتج"
+    },
+    "filters": {
+      "title": "منقي",
+      "all": "جميع الطلبات",
+      "call": "اتصل",
+      "expectation": "في انتظار المكالمة",
+      "notAnswered": "بلا جواب"
+    },
+    "alert": {
+      "title": "قائمة الطلبات الخاصة بك فارغة",
+      "text": "يمكنك تسجيل طلبك الأول من خلال زيارة المتجر"
+    }
+  },
+  "support": {
+    "title": "نظام الدعم",
+    "alert": {
+      "title": "لا توجد تذكرة",
+      "text": "إذا كان لديك أي أسئلة ، فقم بتسجيل تذكرة جديدة واطرح سؤالك"
+    },
+    "ticketCloseAlert": {
+      "title": "التذكرة مغلقة",
+      "text": "إذا كان لديك سؤال جديد ، فقم بتسجيل تذكرة جديدة وإذا كان سؤالك يتعلق بموضوع نفس التذكرة ، فافتح هذه التذكرة مرة أخرى."
+    },
+    "ticketAnsAlert": {
+      "title": "التذكرة تنتظر ردكم"
+    },
+    "ticketOpenAlert": {
+      "title": "التذكرة تنتظر استجابة الدعم",
+      "text": "إذا كنت لا تستطيع انتظار الرد ، يمكنك الاتصال على 09302640725 والرجاء الاتصال على الرقم الداخلي 02144538430 \n {{date}}"
+    },
+    "lastPm": "تاريخ آخر رسالة",
+    "attachmentDownload": "قم بتنزيل الملف المرفق",
+    "message": {
+      "success": "تم إرسال التذكرة بنجاح",
+      "successMessage": "تم إرسال الرسالة بنجاح",
+      "successClose": "تم إغلاق التذكرة بنجاح",
+      "errorClose": "تعذر إغلاق التذكرة ، حدث خطأ"
+    },
+    "addTicket": {
+      "title": "أرسل تذكرة جديدة",
+      "button": "تذكرة جديدة",
+      "ticketTitle": "عنوان التذكرة",
+      "ticketFile": "المرفق",
+      "ticketMessage": "رسالة تذكرة",
+      "submitTicket": "قدم التذكرة",
+      "cancel": "إلغاء"
+    },
+    "addMessage": {
+      "title": "أرسل رسالة جديدة",
+      "ticketMessage": "رسالة تذكرة",
+      "ticketFile": "المرفق",
+      "sendMessage": "إرسال رسالة",
+      "cancel": "إلغاء"
+    },
+    "ticketNumber": "رقم التذكرة",
+    "showMore": "عرض مزيد من التفاصيل",
+    "closeTicket": "أغلق التذكرة",
+    "sendMessage": "أرسل رسالة جديدة",
+    "openAndSend": "افتح تذكرة وأرسل رسالة جديدة",
+    "ticketType": {
+      "close": "إغلاق التذكرة",
+      "open": "تم الرد على التذكرة",
+      "await": "أنتظر اجابة"
+    },
+    "tabs": {
+      "myTickets": "تذاكري",
+      "awaitingTicket": "تذاكر في انتظار الرد",
+      "answeredTicket": "الرد على التذاكر",
+      "closedTicket": "تذاكر مغلقة"
+    }
+  }
+}

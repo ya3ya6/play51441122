@@ -1,0 +1,18 @@
+{
+  "allProducts": { "description": "diğer güzellik ve cilt gençleştirme ürünleri" },
+  "allproducts": { "title": "Güzellik, gençleştirme ve tıbbi ekipman" },
+  "banner": { "submitBtn": "Ürün siparişi" },
+  "lastProducts": { "description": "en son ürünlerimizi görün", "title": "bizim ürünlerimiz" },
+  "product": {
+    "addButton": "Sepete ekle",
+    "endButton": "Envanter sonu",
+    "callButton": "Ücretsiz arama ve danışma",
+    "DownloadButton": "Ürün kataloğunu indirin",
+    "content": "Ürün içeriği",
+    "technical": "Teknik özellikler",
+    "comment": {
+      "title": "Bu ürünün alıcıları Parnian şirketi hakkında ne diyor?",
+      "description": "En iyilere ev sahipliği yapmanın onuru"
+    }
+  }
+}

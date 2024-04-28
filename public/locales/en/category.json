@@ -1,0 +1,10 @@
+{
+  "category": {
+    "mag": "Magazine category",
+    "shop": "products categorization",
+    "news": "News category"
+  },
+  "nameSbuCat": "{{name}} classification subcategories",
+  "postCategory": "{{name}} category content",
+  "productsCategory": "{{name}} category products"
+}

@@ -1,0 +1,52 @@
+{
+  "careers": {
+    "btn": "发送简历",
+    "description": "如果您认为可以与我们合作，请将您的简历发送给我们，以便我们尽快审核并与您联系。",
+    "title": "与我们合作的机会"
+  },
+  "contacts": {
+    "address": "地址",
+    "email": "电子邮件",
+    "mobile": "移动的",
+    "phone": "电话",
+    "title": "联系人"
+  },
+  "educational": {
+    "average": "总平均",
+    "field": "领域和学术方向",
+    "grade": "年级",
+    "title": "教育信息"
+  },
+  "form": {
+    "btn": "恢复注册",
+    "description": "仔细填写并提交以下表格，以便我们尽快审核并与您联系",
+    "title": "合作申请表"
+  },
+  "hero": {
+    "title": "跟我们工作",
+    "description": "“相信任何组织的主要资本是其人力资源，Parnian Gostar Protosanj 公司将招聘专家和勤奋的人作为其人力资源发展战略的首要任务，并制定了特殊的解决方案，为所有人创造平等的就业机会 毕业生。招聘和组织招聘精选的合格人员，以创建和发展一个杰出和杰出的专家和管理机构“"
+  },
+  "personal": {
+    "birth": "出生日期",
+    "gender": {
+      "text": "性别",
+      "male": "男性",
+      "female": "女性"
+    },
+    "name": "名字和姓氏",
+    "title": "个人信息"
+  },
+  "resume": {
+    "input1": "介绍方法",
+    "input2": "在此部分上传您的简历文件 (PDF)",
+    "option1": "社交网络",
+    "option2": "广告",
+    "option3": "朋友和熟人",
+    "option4": "意外地",
+    "option5": "求职网站",
+    "option6": "其他情况",
+    "title": "简历和介绍"
+  },
+  "errorMsg": "注册请求时出错",
+  "successMsg": "您的简历已成功提交"
+}

@@ -1,0 +1,14 @@
+.mySwiper {
+  background-color: #f7f7f7;
+  width: 100%;
+  overflow: hidden;
+}
+
+.swiperSlide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  border: 1px solid #ccc;
+  /* box-sizing: border-box !important; */
+}

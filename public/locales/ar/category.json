@@ -1,0 +1,6 @@
+{
+  "category": { "mag": "فئة المجلة", "shop": "تصنيف المنتجات", "news": "فئة الأخبار" },
+  "postCategory": "فئة {{name}}",
+  "nameSbuCat": "الفئات الفرعية لتصنيف {{name}}",
+  "productsCategory": "منتجات فئة {{name}}"
+}

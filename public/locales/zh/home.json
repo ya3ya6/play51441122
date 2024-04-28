@@ -1,0 +1,19 @@
+{
+  "about": { "title": "关于我们" },
+  "articles": { "button": "查看所有文章", "title": "最新的文章" },
+  "comments": { "button": "查看所有评论", "title": "客户评论" },
+  "news": { "button": "查看所有新闻", "title": "我们的新闻" },
+  "products": {
+    "button": "查看所有产品",
+    "details": "更多细节",
+    "order": "产品订单",
+    "title": "我们的产品",
+    "freeCounseling": "免费咨询"
+  },
+  "statistics": {
+    "articles": "租赁",
+    "satisfaction": "免费教育",
+    "products": "客户满意度高",
+    "services": "一年保修及售后服务"
+  }
+}

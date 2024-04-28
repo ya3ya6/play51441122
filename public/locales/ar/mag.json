@@ -1,0 +1,18 @@
+{
+  "articles": {
+    "description": "انظر جميع مقالاتنا هنا",
+    "title": "جميع المقالات",
+    "conferenceTitle": "جميع المؤتمرات العلمية",
+    "conferenceDescription": "شاهد جميع المؤتمرات العلمية Pernian هنا",
+    "tutorialTitle": "فيديوهات تعليمية",
+    "tutorialDescription": "شاهد جميع مقاطع الفيديو التعليمية Parnian هنا"
+  },
+  "conferencesVideo": {
+    "description": "انقر هنا لمشاهدة جميع مؤتمرات الفيديو العلمية",
+    "title": "أحدث فيديوهات المؤتمرات العلمية"
+  },
+  "tutorialVideo": {
+    "description": "انقر هنا لمشاهدة جميع مقاطع الفيديو التعليمية",
+    "title": "أحدث مقاطع الفيديو التعليمية"
+  }
+}

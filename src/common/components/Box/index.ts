@@ -1,0 +1,16 @@
+export { CustomHeading } from './CustomHeading';
+export { DetailsPost } from './DetailsPost';
+export { FixPhone } from './FixPhone';
+export { Hero } from './Hero';
+export { Pagination } from './Pagination';
+export { ScrollToTop } from './ScrollToTop';
+export { Social } from './Social';
+export { TopNav } from './TopNav';
+export { NewsBox } from './NewsBox';
+export { CounterBox } from './CounterBox';
+export { ContentBox } from './ContentBox';
+export { ProductBox } from './ProductBox';
+export { LangBox } from './LangBox';
+export { AuthBox } from './AuthBox';
+export { FilterAndSearchBox } from './FilterAndSearchBox';
+export { BannerBox } from './BannerBox';

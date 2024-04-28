@@ -1,0 +1,14 @@
+{
+  "form": { "button": "发信息", "email": "电子邮件", "message": "消息位置", "name": "名字和姓氏" },
+  "validation": {
+    "email": "您必须输入您的电子邮件",
+    "message": "您必须输入您的信息",
+    "name": "您必须输入您的姓名"
+  },
+  "hero": { "description": "通过下面的表格或社交媒体联系我们", "title": "联系我们" },
+  "map": { "title": "我们在这儿 ！" },
+  "postalCode": "邮政编码",
+  "SocialText": "在社交网络上关注我们",
+  "errorMsg": "发生错误，无法发送您的消息",
+  "successMsg": "您的留言已成功发送"
+}

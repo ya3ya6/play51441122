@@ -1,0 +1,19 @@
+{
+  "about": { "title": "معلومات عنا" },
+  "articles": { "button": "انظر جميع المقالات", "title": "أحدث المقالات" },
+  "comments": { "button": "انظر جميع التعليقات", "title": "تعليقات العملاء" },
+  "news": { "button": "رؤية كل الأخبار", "title": "أخبارنا" },
+  "products": {
+    "button": "مشاهدة جميع المنتجات",
+    "details": "المزيد من التفاصيل",
+    "order": "طلبيه",
+    "title": "منتجاتنا",
+    "freeCounseling": "ücretsiz danışmanlık"
+  },
+  "statistics": {
+    "articles": "تأجير",
+    "satisfaction": "التعليم المجاني",
+    "products": "رضا العملاء المرتفع",
+    "services": "ضمان لمدة سنة وخدمة ما بعد البيع"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": {
+    "mag": "Dergi kategorisi",
+    "shop": "ürün sınıflandırması",
+    "news": "Haber kategorisi"
+  },
+  "postCategory": "{{name}} kategorisi",
+  "nameSbuCat": "{{name}} sınıflandırma alt kategorileri",
+  "productsCategory": "{{name}} kategorisi ürünleri"
+}

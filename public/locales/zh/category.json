@@ -1,0 +1,6 @@
+{
+  "category": { "mag": "杂志类", "shop": "产品分类", "news": "新闻类" },
+  "postCategory": "{{name}}类别",
+  "nameSbuCat": "{{name}}分类子类别",
+  "productsCategory": "{{name}}类别产品"
+}

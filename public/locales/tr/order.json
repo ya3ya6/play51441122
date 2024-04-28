@@ -1,0 +1,28 @@
+{
+  "alert": {
+    "text": "Mağazaya gitmek ve sepetinize ürün eklemek için aşağıdaki butona tıklayın",
+    "title": "Alışveriş sepetiniz boş"
+  },
+  "form": {
+    "address": "adres",
+    "city": "Kent",
+    "company": "şirket",
+    "description": "Ürün siparişinizi tamamlamak için aşağıdaki formu doldurun",
+    "mobile": "mobil",
+    "name": "Ad ve soyad",
+    "phone": "telefon",
+    "submitBtn": "Siparişi gönder ve kaydet",
+    "title": "Formu doldurun"
+  },
+  "hero": { "description": "ürününüzü kolayca sipariş edin", "title": "Ürün siparişi" },
+  "message": {
+    "error": "Sipariş verirken bir hata oluştu",
+    "success": "Sipariş başarıyla verildi!"
+  },
+  "shoppingCart": {
+    "deleteBtn": "sepeti temizle",
+    "goToShop": "Mağazaya Git",
+    "submitBtn": "Siparişi Gönder",
+    "title": "Alışveriş sepetiniz"
+  }
+}

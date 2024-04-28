@@ -1,0 +1,15 @@
+{
+  "allNews": {
+    "description": "在这里查看我们所有的新闻",
+    "title": "所有新闻",
+    "videoTitle": "宣传影片",
+    "videoDescription": "在此处查看我们所有的宣传视频"
+  },
+  "news": { "description": "您将看到每个类别的最新消息", "title": "最新的帕尼亚新闻" },
+  "promotional": { "description": "点击观看所有宣传视频", "title": "最新宣传影片" },
+  "visitedBox": {
+    "title": "聆听 Parnian 公司各个角落的声音",
+    "description": "在这个页面上，您可以了解到Parnian Gostar Protosanj公司的最新动态、成就、报道、新闻事件等。",
+    "button": "查看所有新闻"
+  }
+}

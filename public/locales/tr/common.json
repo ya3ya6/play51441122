@@ -1,0 +1,158 @@
+{
+  "lang": {
+    "ar": "Arapça",
+    "en": "ingilizce",
+    "zh": "Çince",
+    "fa": "Farsça",
+    "tr": "Türk"
+  },
+  "auth": {
+    "login": "giriş yapmak",
+    "signUp": "üye olmak",
+    "account": "Hesap"
+  },
+  "login": {
+    "title": "Parnian Gostar'a giriş yapın",
+    "signUp": {
+      "part1": "Hesabınız yok mu?",
+      "part2": "Hesap oluştur"
+    },
+    "forgetPassword": {
+      "part1": "Parolanızı mı unuttunuz?",
+      "part2": "Yeni şifre belirle"
+    }
+  },
+  "signUp": {
+    "title": "Bir kullanıcı hesabı oluşturun",
+    "code": "E-postanıza gönderilen kodu girin",
+    "login": {
+      "part1": "Hesabınız yok mu?",
+      "part2": "Hesaba giriş yap"
+    },
+    "message": {
+      "success": "Aktivasyon bağlantısı e-postanıza gönderildi",
+      "error": "Kaydınızla ilgili bir sorun oluştu."
+    }
+  },
+  "form": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirm": "Şifreyi Onayla"
+  },
+  "profileMenu": {
+    "notif": "bildirim",
+    "personalInfo": "kişisel bilgi",
+    "support": "destek",
+    "orders": "emirler",
+    "logout": "çıkış Yap"
+  },
+  "newsletter": {
+    "button": "abonelik",
+    "description": "Haber bültenleri, makaleler ve konferans bilgileri almak için e-postanızı bizimle paylaşın",
+    "title": "Bültenimizi almak için kaydolun",
+    "message": {
+      "success": "Başarılı bir şekilde kaydoldunuz",
+      "error": "E-postanız geçerli değil"
+    }
+  },
+  "footer": {
+    "orderBtn": "emir",
+    "contactBtn": "Bize Ulaşın"
+  },
+  "bottomNavigation": {
+    "home": "ev",
+    "products": "ürünler",
+    "mag": "dergi",
+    "news": "Haberler"
+  },
+  "pagination": { "nextBtn": "sonraki", "prevBtn": "önceki" },
+  "shoppingCard": {
+    "title": "alışveriş kartı",
+    "clearBtn": "alışveriş kartını temizle",
+    "finalizeBtn": "sonuçlandırmak",
+    "emptyText": "!Alışveriş Kartınız Boş",
+    "message": {
+      "success": "Ürün başarıyla sepete eklendi",
+      "error": "Sepete ürün eklemek için giriş yapmalısınız",
+      "clear": "Alışveriş sepetiniz başarıyla boşaltıldı"
+    }
+  },
+  "steps": {
+    "title": "sipariş kayıt rehberi",
+    "description": "bir sipariş kaydetmek için, sırayla aşağıdaki adımları izleyin",
+    "one": "ilk adım",
+    "two": "ikinci adım",
+    "three": "üçüncü adım",
+    "four": "dördüncü adım",
+    "stepOne": {
+      "title": "Ürün seçimi",
+      "description": "İlk önce mağazadan ürününüzü seçin"
+    },
+    "stepTwo": {
+      "title": "Emir",
+      "description": "Bir sonraki adımda ürününüzü kaydedin ve sipariş kayıt formundaki bilgilerinizi doldurun."
+    },
+    "stepThree": {
+      "title": "Sözleşme",
+      "description": "Üçüncü adımda, şirketle iletişime geçin veya uzmanlarımızın aramasını bekleyin, ardından bir sözleşme yapmak için şahsen veya şahsen şirketi ziyaret edin."
+    },
+    "stepFour": {
+      "title": "Ürün teslimatı",
+      "description": "Nakit veya faizsiz taksitli ödemeler için gerekli düzenlemeler tarafınızca yapılacak ve ürün belirlenen idari süre içerisinde tarafınıza gönderilecektir."
+    }
+  },
+  "filter": {
+    "placeholder": "Tarafından sipariş",
+    "newest": "en yeni",
+    "oldest": "En yaşlı",
+    "visited": "en çok ziyaret edilen"
+  },
+  "search": "arama",
+  "available": "Stokta mevcut",
+  "notAvailable": "Envanter sonu",
+  "moreBtn": "ürün tanıtımı",
+  "videoBtn": "Videoyu izle",
+  "loginSuccess": "Başarıyla giriş yaptınız",
+  "readMore": "devamını oku",
+  "post": "İleti",
+  "product": "ürün",
+  "postCode": "posta kodu",
+  "fieldRequired": "Bu alan gereklidir",
+  "selectLang": "Dil Seçin",
+  "accManage": "Hesap Yönetimi",
+  "validation": {
+    "confirm": "Şifreyi onayla şifre ile aynı değil",
+    "email": "Girilen e-posta geçerli değil",
+    "password": { "min": "Şifre en az 12 karakter olmalıdır" }
+  },
+  "error": { "notFound": "SAYFA BULUNAMADI", "server": "SERVER HATASI" },
+  "forgetPassword": {
+    "one": {
+      "message": { "success": "Şifre değiştirme bağlantısı başarıyla e-postanıza gönderildi" },
+      "button": "Sunmak",
+      "text": "E-postanızı kaydettikten sonra size bir bağlantı e-posta ile gönderilecek ve bu bağlantıya tıkladığınızda şifre değiştirme sayfasına yönlendirileceksiniz.",
+      "title": "İlk adım şifre kurtarma"
+    },
+    "two": {
+      "button": "şifre değiştir",
+      "message": { "success": "parola başarıyla değiştirildi" },
+      "newPassword": "Yeni Şifre",
+      "repeat": "şifreyi tekrarla",
+      "title": "İkinci adım şifre kurtarma"
+    }
+  },
+  "comments": {
+    "reply": "cevap vermek",
+    "cancel": "İptal etmek"
+  },
+  "freeCounseling": {
+    "description": "Uzmanlarımızla ücretsiz danışmanlık almak için lütfen adınızı, soyadınızı ve cep telefonu numaranızı aşağıdaki forma girin, uzmanlarımız en kısa sürede sizinle iletişime geçsin.",
+    "phoneNumber": "telefon numarası",
+    "email": "e-posta (isteğe bağlı)",
+    "name": "adınız",
+    "submit": "göndermek",
+    "error": "Bir hata oluştu",
+    "success": "Mesajınız başarıyla gönderildi.",
+    "required": "gerekli"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "details": {
+    "author": "مؤلف",
+    "category": "الفئة",
+    "date": "يوم الاصدار",
+    "shareMessage": "تم نسخ رابط المقالة بنجاح"
+  },
+  "comments": {
+    "setTitleNormal": "سجل تعليقاً",
+    "setTitleReply": "أنت ترد على تعليق {{name}}",
+    "getTitle": "تعليقات على هذا المقال",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "text": "نص التعليق",
+    "button": "انشر تعليق",
+    "buttonReply": "الرد آخر",
+    "reply": "الرد",
+    "cancel": "إلغاء",
+    "buttonCancel": "إلغاء",
+    "errorMessage": "واجهت العملية خطأ",
+    "successfullyMessage": "تم تسجيل تعليقك بنجاح ، سيتم عرضه بعد موافقة مدير الموقع."
+  },
+  "aside": {
+    "relatedPsts": "المنشورات ذات الصلة",
+    "studyGuide": "دليل الدراسة"
+  }
+}

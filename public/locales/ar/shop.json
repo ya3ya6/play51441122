@@ -1,0 +1,18 @@
+{
+  "allProducts": { "description": "منتجات تجديد الجلد والجمال الأخرى" },
+  "allproducts": { "title": "الجمال والتجديد والمعدات الطبية" },
+  "banner": { "submitBtn": "طلبيه" },
+  "lastProducts": { "description": "شاهد أحدث منتجاتنا", "title": "منتجاتنا" },
+  "product": {
+    "addButton": "أضف إلى السلة",
+    "endButton": "نهاية المخزون",
+    "callButton": "مكالمة واستشارة مجانية",
+    "DownloadButton": "قم بتنزيل كتالوج المنتج",
+    "content": "محتوى المنتج",
+    "technical": "المواصفات الفنية",
+    "comment": {
+      "title": "ماذا يقول مشترو هذا المنتج عن شركة بارنيان؟",
+      "description": "شرف استضافة الأفضل"
+    }
+  }
+}

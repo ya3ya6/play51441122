@@ -1,0 +1,28 @@
+{
+  "alert": {
+    "text": "Click the button below to go to the store and add a product to your cart",
+    "title": "Your shopping cart is empty"
+  },
+  "form": {
+    "address": "address",
+    "city": "city",
+    "company": "company",
+    "description": "to complete your product order, fill out the form below",
+    "mobile": "mobile",
+    "name": "first name and last name",
+    "phone": "phone",
+    "submitBtn": "Send and register the order",
+    "title": "Complete the form"
+  },
+  "hero": { "description": "order your product easily", "title": "Product order" },
+  "message": {
+    "error": "There was an error placing the order",
+    "success": "The order was successfully placed!"
+  },
+  "shoppingCart": {
+    "deleteBtn": "clear cart",
+    "goToShop": "Go to the store",
+    "submitBtn": "submit order",
+    "title": "Your shopping cart"
+  }
+}

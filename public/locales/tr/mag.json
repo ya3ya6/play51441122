@@ -1,0 +1,19 @@
+{
+  "articles": {
+    "description": "tüm yazılarımıza buradan bakın",
+    "title": "Bütün makaleler",
+    "conferenceTitle": "Tüm bilimsel konferanslar",
+    "conferenceDescription": "Tüm Pernian bilimsel konferanslarını burada görün",
+    "tutorialTitle": "eğitici videolar",
+    "tutorialDescription": "Tüm Parnian eğitim videolarını burada görün"
+  },
+  "conferencesVideo": {
+    "description": "Tüm bilimsel video konferansları izlemek için buraya tıklayın",
+    "title": "bilimsel konferansların en son videoları"
+  },
+  "tutorialVideo": {
+    "description": "tüm eğitim videolarını izlemek için buraya tıklayın",
+    "title": "en yeni eğitici videolar"
+  },
+  "viewText": "görüş"
+}

@@ -1,0 +1,18 @@
+{
+  "allProducts": { "description": "other beauty and skin rejuvenation products" },
+  "allproducts": { "title": "Beauty, rejuvenation and medical equipment" },
+  "banner": { "submitBtn": "Product order" },
+  "lastProducts": { "description": "see our latest products", "title": "our products" },
+  "product": {
+    "addButton": "Add to cart",
+    "endButton": "End of inventory",
+    "callButton": "Free call and consultation",
+    "DownloadButton": "Download the product catalog",
+    "content": "Product content",
+    "technical": "Technical Specifications",
+    "comment": {
+      "title": "What do the buyers of this product say about Parnian company?",
+      "description": "The honor of hosting the best"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "details": {
+    "author": "author",
+    "category": "category",
+    "date": "Release date",
+    "shareMessage": "The article link was copied successfully"
+  },
+  "comments": {
+    "setTitleNormal": "Register a comment",
+    "setTitleReply": "You are replying to {{name}}'s comment",
+    "getTitle": "Comments on this article",
+    "fullName": "Full name",
+    "email": "email",
+    "text": "comment text",
+    "button": "Post a comment",
+    "buttonReply": "Post reply",
+    "reply": "reply",
+    "cancel": "cancel",
+    "buttonCancel": "cancel",
+    "errorMessage": "The operation encountered an error",
+    "successfullyMessage": "Your comment has been registered successfully, it will be displayed after the approval of the site administrator."
+  },
+  "aside": {
+    "relatedPsts": "Related posts",
+    "studyGuide": "study guide"
+  }
+}

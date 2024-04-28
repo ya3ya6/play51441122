@@ -1,0 +1,18 @@
+{
+  "articles": {
+    "description": "see all our articles here",
+    "title": "All articles",
+    "conferenceTitle": "All scientific conferences",
+    "conferenceDescription": "See all Pernian scientific conferences here",
+    "tutorialTitle": "Educational videos",
+    "tutorialDescription": "See all Parnian educational videos here"
+  },
+  "conferencesVideo": {
+    "description": "click here to watch all scientific video conference",
+    "title": "the latest videos of scientific conferences"
+  },
+  "tutorialVideo": {
+    "description": "click here to watch all the instructional videos",
+    "title": "the latest instructional videos"
+  }
+}

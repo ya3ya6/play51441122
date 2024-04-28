@@ -1,0 +1,21 @@
+{
+  "allNews": {
+    "description": "tüm haberlerimizi burada görün",
+    "title": "tüm haberler",
+    "videoTitle": "tanıtım videoları",
+    "videoDescription": "Tüm tanıtım videolarımızı buradan izleyin"
+  },
+  "news": {
+    "description": "her kategoriden en son haberleri göreceksiniz",
+    "title": "En son Parnian haberleri"
+  },
+  "promotional": {
+    "description": "Tüm tanıtım videolarını izlemek için tıklayın",
+    "title": "En son tanıtım videoları"
+  },
+  "visitedBox": {
+    "title": "Parnian şirketinin her köşesinden haber alın",
+    "description": "Bu sayfada Parnian Gostar Protosanj firmasının en son haberleri, başarıları, raporları, haber etkinlikleri vb. hakkında bilgi edinebilirsiniz.",
+    "button": "Tüm haberleri görüntüle"
+  }
+}

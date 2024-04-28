@@ -1,0 +1,19 @@
+{
+  "form": {
+    "button": "send Message",
+    "email": "email",
+    "message": "Location of message",
+    "name": "first name and last name"
+  },
+  "validation": {
+    "email": "You must enter your email",
+    "message": "You must enter your message",
+    "name": "You must enter your name"
+  },
+  "hero": { "description": "contact us via the form below or social media", "title": "contact us" },
+  "map": { "title": "we are here !" },
+  "postalCode": "Postal code",
+  "SocialText": "Follow us on social networks",
+  "errorMsg": "An error occurred and your message could not be sent",
+  "successMsg": "Your message has been successfully sent"
+}

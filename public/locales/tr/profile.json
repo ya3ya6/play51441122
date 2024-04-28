@@ -1,0 +1,136 @@
+{
+  "notification": {
+    "title": "Mesajların",
+    "alert": {
+      "title": "mesaj yok",
+      "text": "Yeni mesaj veya bildirim yok"
+    }
+  },
+  "info": {
+    "title": "Kişisel bilgi",
+    "message": {
+      "success": "Bilgileriniz başarıyla güncellendi.",
+      "changePasswordSuccess": "parola başarıyla değiştirildi",
+      "RequestCodeSuccess": "Doğrulama kodu size başarıyla gönderildi",
+      "doneCode": "Doğrulama kodu başarıyla kaydedildi"
+    },
+    "form": {
+      "fName": "İlk adı",
+      "lName": "Soyadı",
+      "verificationCode": "Doğrulama kodu",
+      "email": "e-posta",
+      "gender": {
+        "label": "Cinsiyet",
+        "male": "erkek",
+        "female": "dişi"
+      },
+      "nationalCode": "Ulusal Kod",
+      "country": "ülke",
+      "address": "adres",
+      "company": "Şirket veya klinik adı",
+      "mobilePhone": "telefon numarası",
+      "tell": "söylemek",
+      "button": {
+        "changePassword": "şifre değiştir",
+        "changePhoneNumber": "telefon numarasını değiştir",
+        "editProfile": "profili Düzenle",
+        "requestCode": "İstek kodu",
+        "done": "tamamlamak"
+      }
+    },
+    "changePhoneNumberTitle": "Cep telefonu numarasını düzenle",
+    "changePasswordTitle": "Şifreyi düzenle"
+  },
+  "orders": {
+    "title": "sipariş listesi",
+    "summaryButton": "Sipariş özetini görüntüle",
+    "supportName": "Destek Adı",
+    "moreButton": "Daha fazla ayrıntı görüntüle",
+    "dateOrder": "Sipariş kayıt tarihi",
+    "callOrder": "Uzman iletişim tarihi",
+    "orderCode": "sipariş kodu",
+    "orderType": {
+      "done": "Bir satış uzmanı tarafından danışıldı",
+      "faild": "Cevap vermemeniz",
+      "expectation": "Satış uzmanlarından arama bekleniyor"
+    },
+    "product": {
+      "type": {
+        "title": "ürün tipi",
+        "contractual": "sözleşmeli"
+      },
+      "name": "Ürün adı",
+      "link": "Ürünü mağazada görüntüle",
+      "download": "Ürün kataloğunu indirin"
+    },
+    "filters": {
+      "title": "filtre",
+      "all": "Tüm siparişler",
+      "call": "Aranan",
+      "expectation": "arama bekleniyor",
+      "notAnswered": "cevaplanmadı"
+    },
+    "alert": {
+      "title": "Sipariş listeniz boş",
+      "text": "Mağazayı ziyaret ederek ilk siparişinizi kaydedebilirsiniz."
+    }
+  },
+  "support": {
+    "title": "Destek sistemi",
+    "alert": {
+      "title": "bilet yok",
+      "text": "Herhangi bir sorunuz varsa, yeni bir bilet kaydedin ve sorunuzu sorun"
+    },
+    "ticketCloseAlert": {
+      "title": "Bilet kapandı",
+      "text": "Sizin için yeni bir soru varsa, yeni bir bilet kaydedin ve sorunuz aynı biletin konusuyla ilgiliyse bu bileti tekrar açın."
+    },
+    "ticketAnsAlert": {
+      "title": "Bilet yanıtınızı bekliyor"
+    },
+    "ticketOpenAlert": {
+      "title": "Bilet destek yanıtı bekliyor",
+      "text": "Cevap bekleyemiyorsanız, 09302640725 numaralı telefonu ve lütfen dahili 02144538430 numaralı telefonu arayın. \n {{date}}"
+    },
+    "lastPm": "Son mesajın tarihi",
+    "attachmentDownload": "Ekli dosyayı indirin",
+    "message": {
+      "success": "Bilet başarıyla gönderildi",
+      "successMessage": "Mesaj başarıyla gönderildi",
+      "successClose": "Bilet başarıyla kapatıldı",
+      "errorClose": "Bilet kapatılamadı, bir hata oluştu"
+    },
+    "addTicket": {
+      "title": "Yeni bir bilet gönder",
+      "button": "Yeni Bilet",
+      "ticketTitle": "Bilet adı",
+      "ticketFile": "Ek",
+      "ticketMessage": "Bilet Mesajı",
+      "submitTicket": "Bilet Gönder",
+      "cancel": "iptal etmek"
+    },
+    "addMessage": {
+      "title": "Yeni bir mesaj gönder",
+      "ticketMessage": "Bilet Mesajı",
+      "ticketFile": "Ek",
+      "sendMessage": "mesaj gönder",
+      "cancel": "iptal etmek"
+    },
+    "ticketNumber": "Bilet numarası",
+    "showMore": "Daha fazla ayrıntı görüntüle",
+    "closeTicket": "Bileti Kapat",
+    "sendMessage": "Yeni bir mesaj gönder",
+    "openAndSend": "Bir bilet açın ve yeni bir mesaj gönderin",
+    "ticketType": {
+      "close": "Bileti Kapat",
+      "open": "Bilet cevaplandı",
+      "await": "Bir cevap beklemek"
+    },
+    "tabs": {
+      "myTickets": "Biletlerim",
+      "awaitingTicket": "Yanıt bekleyen biletler",
+      "answeredTicket": "Cevaplanan biletler",
+      "closedTicket": "Kapalı biletler"
+    }
+  }
+}

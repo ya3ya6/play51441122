@@ -1,0 +1,52 @@
+{
+  "careers": {
+    "btn": "sending resume",
+    "description": "If you think you can work with us, send us your resume so we can review and contact you as soon as possible.",
+    "title": "opportunities to work with us"
+  },
+  "contacts": {
+    "address": "address",
+    "email": "email",
+    "mobile": "mobile",
+    "phone": "phone",
+    "title": "contacts"
+  },
+  "educational": {
+    "average": "total average",
+    "field": "field and academic orientation",
+    "grade": "grade",
+    "title": "educational Information"
+  },
+  "form": {
+    "btn": "resume registration",
+    "description": "carefully complete and submit the following form so that we can review and contact you at the earliest opportunity",
+    "title": "Cooperation application form"
+  },
+  "hero": {
+    "title": "cooperate with us",
+    "description": "Believing that the main capital of any organization is its human resources, Parnian Gostar Protosanj Company has put the recruitment of expert and hard-working people at the top of its human resources development strategies and has formulated special solutions by creating equal job opportunities for all graduates. Recruiting and organizing the recruitment of selected and qualified people to create and develop an outstanding and distinguished expert and managerial body"
+  },
+  "personal": {
+    "birth": "date of birth",
+    "gender": {
+      "text": "gender",
+      "male": "male",
+      "female": "female"
+    },
+    "name": "first name and last name",
+    "title": "personal information"
+  },
+  "resume": {
+    "input1": "the method of introduction",
+    "input2": "upload your resume file in this section (PDF)",
+    "option1": "social Networks",
+    "option2": "advertisements",
+    "option3": "friends and acquaintances",
+    "option4": "by accident",
+    "option5": "job search sites",
+    "option6": "other cases",
+    "title": "resume and introduction"
+  },
+  "errorMsg": "Error in registering the request",
+  "successMsg": "Your resume has been successfully submitted"
+}

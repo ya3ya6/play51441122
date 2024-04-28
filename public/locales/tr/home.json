@@ -1,0 +1,18 @@
+{
+  "about": { "title": "Hakkımızda" },
+  "articles": { "button": "tüm makaleleri gör", "title": "En son makaleler" },
+  "comments": { "button": "tüm yorumları gör", "title": "müşteri yorumları" },
+  "news": { "button": "tüm haberleri gör", "title": "bizim haberlerimiz" },
+  "products": {
+    "button": "tüm ürünleri gör",
+    "details": "daha fazla detay",
+    "order": "ürün siparişi",
+    "title": "bizim ürünlerimiz"
+  },
+  "statistics": {
+    "articles": "kiralama",
+    "satisfaction": "Ücretsiz Eğitim",
+    "products": "Müşteri memnuniyeti yüksek",
+    "services": "Bir yıl garanti ve satış sonrası servis"
+  }
+}

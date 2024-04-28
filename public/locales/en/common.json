@@ -1,0 +1,158 @@
+{
+  "lang": {
+    "ar": "Arabic",
+    "en": "English",
+    "zh": "Chinese",
+    "fa": "Persian",
+    "tr": "Turkish"
+  },
+  "auth": {
+    "login": "login",
+    "signUp": "sign up",
+    "account": "Account"
+  },
+  "login": {
+    "title": "Login to Parnian Gostar",
+    "signUp": {
+      "part1": "Do you not have an account?",
+      "part2": "Create account"
+    },
+    "forgetPassword": {
+      "part1": "Forgot your password?",
+      "part2": "Set new password"
+    }
+  },
+  "signUp": {
+    "title": "Create a user account",
+    "code": "Enter the code sent to your email",
+    "login": {
+      "part1": "Do you not have an account?",
+      "part2": "Login to account"
+    },
+    "message": {
+      "success": "The activation link has been sent to your email",
+      "error": "There was a problem with your registration."
+    }
+  },
+  "form": {
+    "email": "Email",
+    "password": "Password",
+    "confirm": "confirm password"
+  },
+  "profileMenu": {
+    "notif": "notification",
+    "personalInfo": "personal info",
+    "support": "support",
+    "orders": "orders",
+    "logout": "logout"
+  },
+  "newsletter": {
+    "button": "Subscription",
+    "description": "To receive newsletters, articles and conference information, share your email with us",
+    "title": "Sign up to receive our newsletter",
+    "message": {
+      "success": "You have successfully signed up",
+      "error": "Your email is not valid"
+    }
+  },
+  "footer": {
+    "orderBtn": "order",
+    "contactBtn": "contact us"
+  },
+  "bottomNavigation": {
+    "home": "Home",
+    "products": "Products",
+    "mag": "Mag",
+    "news": "News"
+  },
+  "pagination": { "nextBtn": "next", "prevBtn": "prev" },
+  "shoppingCard": {
+    "title": "shopping card",
+    "clearBtn": "clear shopping card",
+    "finalizeBtn": "to finalize",
+    "emptyText": "!Your Shopping Card is Empty",
+    "message": {
+      "success": "The product has been successfully added to the cart",
+      "error": "You must log in to add a product to the cart",
+      "clear": "Your shopping cart has been successfully emptied"
+    }
+  },
+  "steps": {
+    "title": "order registration guide",
+    "description": "to register an order, follow the steps below in order",
+    "one": "first step",
+    "two": "second step",
+    "three": "third step",
+    "four": "fourth step",
+    "stepOne": {
+      "title": "Product selection",
+      "description": "First, choose your product from the store"
+    },
+    "stepTwo": {
+      "title": "Order",
+      "description": "In the next step, register your product and fill in your information in the order registration form."
+    },
+    "stepThree": {
+      "title": "Contract",
+      "description": "In the third step, contact the company or wait for the call of our experts, then visit the company in person or in person to conclude a contract."
+    },
+    "stepFour": {
+      "title": "Product delivery",
+      "description": "Necessary arrangements for cash or interest-free installment payments will be made with you and the product will be sent to you within a specified administrative period."
+    }
+  },
+  "filter": {
+    "placeholder": "Order By",
+    "newest": "the newest",
+    "oldest": "The oldest",
+    "visited": "most visited"
+  },
+  "available": "Available in stock",
+  "notAvailable": "End of inventory",
+  "search": "search",
+  "loginSuccess": "You have successfully logged in",
+  "readMore": "read more",
+  "videoBtn": "Watch the video",
+  "post": "post",
+  "moreBtn": "Product introduction",
+  "product": "product",
+  "postCode": "post-code",
+  "fieldRequired": "This field is required",
+  "selectLang": "Select language",
+  "accManage": "Account management",
+  "validation": {
+    "confirm": "Confirm password is not the same as password",
+    "email": "The email entered is not valid",
+    "password": { "min": "Password must be at least 12 characters" }
+  },
+  "error": { "notFound": "PAGE NOT FOUND", "server": "SERVER ERROR" },
+  "forgetPassword": {
+    "one": {
+      "button": "submit",
+      "message": { "success": "The password change link has been successfully sent to your email" },
+      "text": "After registering your email, a link will be emailed to you, and by clicking on that link, you will be redirected to the password change page.",
+      "title": "First step password recovery"
+    },
+    "two": {
+      "button": "change password",
+      "message": { "success": "Password changed successfully" },
+      "newPassword": "New password",
+      "repeat": "repeat the password",
+      "title": "Second step password recovery"
+    }
+  },
+  "comments": {
+    "reply": "reply",
+    "cancel": "cancel"
+  },
+  "freeCounseling": {
+    "description": "For a free consultation with our experts, please enter your name, surname and mobile number in the form below so that our experts will contact you as soon as possible.",
+    "phoneNumber": "phone number",
+    "email": "email (optional)",
+    "name": "your name",
+    "submit": "submit",
+    "error": "An error has occurred",
+    "success": "Your message has been successfully sent.",
+    "required": "required"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "alert": {
+    "text": "单击下面的按钮进入商店并将产品添加到您的购物车",
+    "title": "你的购物车是空的"
+  },
+  "form": {
+    "address": "地址",
+    "city": "城市",
+    "company": "公司",
+    "description": "要完成您的产品订单，请填写以下表格",
+    "mobile": "移动的",
+    "name": "名字和姓氏",
+    "phone": "电话",
+    "submitBtn": "发送并注册订单",
+    "title": "完成表格"
+  },
+  "hero": { "description": "轻松订购您的产品", "title": "产品订单" },
+  "message": { "error": "下订单时出错", "success": "下单成功！" },
+  "shoppingCart": {
+    "deleteBtn": "清除购物车",
+    "goToShop": "去商店",
+    "submitBtn": "提交订单",
+    "title": "你的购物车"
+  }
+}

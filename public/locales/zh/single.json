@@ -1,0 +1,27 @@
+{
+  "details": {
+    "author": "作者",
+    "category": "類別",
+    "date": "發布日期",
+    "shareMessage": "文章鏈接複製成功"
+  },
+  "comments": {
+    "setTitleNormal": "註冊評論",
+    "setTitleReply": "您正在回复 {{name}} 的評論",
+    "getTitle": "對這篇文章的評論",
+    "fullName": "全名",
+    "email": "電子郵件",
+    "text": "評論文字",
+    "button": "發表評論",
+    "buttonReply": "發表回复",
+    "reply": "回复",
+    "cancel": "取消",
+    "buttonCancel": "取消",
+    "errorMessage": "操作遇到錯誤",
+    "successfullyMessage": "您的評論已註冊成功，待站長審核通過後顯示."
+  },
+  "aside": {
+    "relatedPsts": "相關文章",
+    "studyGuide": "學習指導"
+  }
+}

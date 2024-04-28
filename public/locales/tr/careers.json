@@ -1,0 +1,52 @@
+{
+  "careers": {
+    "btn": "özgeçmiş gönderme",
+    "description": "Bizimle çalışabileceğinizi düşünüyorsanız, özgeçmişinizi bize gönderin, en kısa sürede inceleyip sizinle iletişime geçelim.",
+    "title": "bizimle çalışma fırsatları"
+  },
+  "contacts": {
+    "address": "adres",
+    "email": "e-posta",
+    "mobile": "mobil",
+    "phone": "telefon",
+    "title": "kişiler"
+  },
+  "educational": {
+    "average": "toplam ortalama",
+    "field": "alan ve akademik oryantasyon",
+    "grade": "seviye",
+    "title": "Eğitimsel bilgi"
+  },
+  "form": {
+    "btn": "kaydı devam ettir",
+    "description": "İnceleyip sizinle ilk fırsatta iletişime geçebilmemiz için aşağıdaki formu dikkatlice doldurun ve gönderin",
+    "title": "İşbirliği başvuru formu"
+  },
+  "hero": {
+    "title": "Bizimle çalış",
+    "description": "Herhangi bir organizasyonun ana sermayesinin insan kaynağı olduğuna inanan Parnian Gostar Protosanj Company, uzman ve çalışkan insanları insan kaynakları geliştirme stratejilerinin en üstüne koymuş ve herkese eşit iş fırsatları yaratarak özel çözümler formüle etmiştir. Seçkin ve seçkin bir uzman ve yönetim organı oluşturmak ve geliştirmek için seçilmiş ve nitelikli kişilerin işe alınması ve işe alınmasını organize etmek"
+  },
+  "personal": {
+    "birth": "doğum tarihi",
+    "gender": {
+      "text": "Cinsiyet",
+      "male": "erkek",
+      "female": "dişi"
+    },
+    "name": "Ad ve soyad",
+    "title": "kişisel bilgi"
+  },
+  "resume": {
+    "input1": "giriş yöntemi",
+    "input2": "özgeçmiş dosyanızı bu bölüme yükleyin (PDF)",
+    "option1": "sosyal ağlar",
+    "option2": "reklamlar",
+    "option3": "arkadaşlar ve tanıdıklar",
+    "option4": "kazayla",
+    "option5": "iş arama siteleri",
+    "option6": "diğer durumlar",
+    "title": "özgeçmiş ve giriş"
+  },
+  "errorMsg": "İsteği kaydederken hata",
+  "successMsg": "Özgeçmişiniz başarıyla gönderildi"
+}

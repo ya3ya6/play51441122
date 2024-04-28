@@ -1,0 +1,136 @@
+{
+  "notification": {
+    "title": "پیام های شما",
+    "alert": {
+      "title": "هیچ پیامی وجود ندارد",
+      "text": "هیچ پیام یا اعلان جدیدی وجود ندارد"
+    }
+  },
+  "info": {
+    "title": "اطلاعات شخصی",
+    "message": {
+      "success": "اطلاعات شما با موفقیت به روز شد.",
+      "changePasswordSuccess": "رمز عبور با موفقیت تغییر کرد",
+      "RequestCodeSuccess": "کد تایید با موفقیت برای شما ارسال شد",
+      "doneCode": "کد تایید با موفقیت ثبت شد"
+    },
+    "form": {
+      "fName": "نام کوچک",
+      "lName": "نام خانوادگی",
+      "verificationCode": "کد تایید",
+      "email": "پست الکترونیک",
+      "gender": {
+        "label": "جنسیت",
+        "male": "مرد",
+        "female": "زن"
+      },
+      "nationalCode": "کد ملی",
+      "country": "کشور",
+      "address": "آدرس",
+      "company": "نام شرکت یا کلینیک",
+      "mobilePhone": "شماره همراه",
+      "tell": "شماره ثابت",
+      "button": {
+        "changePassword": "تغییر رمز عبور",
+        "changePhoneNumber": "تغییر شماره همراه",
+        "editProfile": "ویراش پروفایل",
+        "requestCode": "درخواست کد",
+        "done": "انجام شد"
+      }
+    },
+    "changePhoneNumberTitle": "ویرایش شماره همراه",
+    "changePasswordTitle": "ویرایش رمز عبور"
+  },
+  "orders": {
+    "title": "لیست سفارشات",
+    "summaryButton": "مشاهده خلاصه",
+    "supportName": "نام پشتیبان",
+    "moreButton": "مشاهده جزئیات بیشتر",
+    "dateOrder": "تاریخ ثبت سفارش",
+    "callOrder": "تاریخ تماس کارشناس",
+    "orderCode": "کد سفارش",
+    "orderType": {
+      "done": "مشاوره توسط کارشناس فروش",
+      "faild": "عدم پاسخگویی شما",
+      "expectation": "منتظر تماس کارشناسان فروش"
+    },
+    "product": {
+      "type": {
+        "title": "نوع محصول",
+        "contractual": "قرار دادی"
+      },
+      "name": "نام محصول",
+      "link": "مشاهده محصول در فروشگاه",
+      "download": "دانلود کاتالوگ محصول"
+    },
+    "filters": {
+      "title": "فیلتر",
+      "all": "همه سفارشات",
+      "call": "تماس گرفته شده",
+      "expectation": "در انتظار تماس",
+      "notAnswered": "عدم پاسخوگیی شما"
+    },
+    "alert": {
+      "title": "لیست سفارش شما خالی است",
+      "text": "با مراجعه به فروشگاه می توانید اولین سفارش خود را ثبت کنید"
+    }
+  },
+  "support": {
+    "title": "سیستم پشتیبانی",
+    "alert": {
+      "title": "تیکتی وجود ندارد",
+      "text": "اگر سوالی دارید، یک تیکت جدید ثبت کنید و سوال خود را بپرسید"
+    },
+    "ticketCloseAlert": {
+      "title": "تیکت بسته است",
+      "text": "اگر سوال جدیدی برای شما وجود دارد، تیکت جدید ثبت کنید و اگر سوال شما مربوط به موضوع همان تیکت است، دوباره این تیکت را باز کنید."
+    },
+    "ticketAnsAlert": {
+      "title": "تیکت منتظر پاسخ شماست"
+    },
+    "ticketOpenAlert": {
+      "title": "تیکت منتظر پاسخ پشتیبانی است",
+      "text": "اگر نمی توانید منتظر پاسخ باشید، می توانید با شماره 09302640725 و لطفا با شماره داخلی 02144538430 تماس بگیرید. \n {{date}}"
+    },
+    "lastPm": "تاریخ آخرین پیام",
+    "attachmentDownload": "فایل پیوست را دانلود کنید",
+    "message": {
+      "success": "تیکت با موفقیت ارسال شد",
+      "successMessage": "پیام با موفقیت ارسال شد",
+      "successClose": "تیکت با موفقیت بسته شد",
+      "errorClose": "تیکت بسته نشد، خطایی رخ داده است"
+    },
+    "addTicket": {
+      "title": "یک تیکت جدید بفرستید",
+      "button": "تیکت جدید",
+      "ticketTitle": "عنوان تیکت",
+      "ticketFile": "پیوست",
+      "ticketMessage": "پیام تیکت",
+      "submitTicket": "ارسال تیکت",
+      "cancel": "انصراف"
+    },
+    "addMessage": {
+      "title": "یک پیام جدید ارسال کنید",
+      "ticketMessage": "پیام بلیط",
+      "ticketFile": "پیوست",
+      "sendMessage": "فرستادن پیام",
+      "cancel": "انصراف"
+    },
+    "ticketNumber": "شماره تیکت",
+    "showMore": "مشاهده جزئیات بیشتر",
+    "closeTicket": "بستن تیکت",
+    "sendMessage": "ارسال پیام جدید",
+    "openAndSend": "یک بلیط باز کنید و یک پیام جدید ارسال کنید",
+    "ticketType": {
+      "close": "بسته شده",
+      "open": "پاسخ داده شده",
+      "await": "در انتظار پاسخ"
+    },
+    "tabs": {
+      "myTickets": "تیکت های من",
+      "awaitingTicket": "در انتظار پاسخ",
+      "answeredTicket": "تیکت های پاسخ داده شده",
+      "closedTicket": "تیکت های بسته شده"
+    }
+  }
+}

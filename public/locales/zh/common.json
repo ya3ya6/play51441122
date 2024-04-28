@@ -1,0 +1,161 @@
+{
+  "lang": {
+    "ar": "阿拉伯",
+    "en": "英语",
+    "zh": "中国人",
+    "fa": "波斯语",
+    "tr": "波斯语"
+  },
+  "auth": { "login": "登录", "signUp": "报名", "account": "帐户" },
+  "menu": {
+    "aboutUs": "关于我们",
+    "news": "消息",
+    "contactUs": "联系我们",
+    "magazine": "杂志",
+    "products": "产品"
+  },
+  "newsletter": {
+    "button": "订阅",
+    "description": "要接收时事通讯、文章和会议信息，请与我们分享您的电子邮件",
+    "title": "注册以接收我们的时事通讯",
+    "message": {
+      "success": "您已成功注册",
+      "error": "您的电子邮件无效"
+    }
+  },
+  "pagination": { "nextBtn": "下一个", "prevBtn": "上一页" },
+  "login": {
+    "title": "登录到 Parnian Gostar",
+    "signUp": {
+      "part1": "您没有帐户吗？",
+      "part2": "创建账户"
+    },
+    "forgetPassword": {
+      "part1": "忘记密码了吗？",
+      "part2": "设置新密码"
+    }
+  },
+  "signUp": {
+    "title": "创建用户帐户",
+    "code": "输入发送到您的电子邮件的代码",
+    "login": {
+      "part1": "您没有帐户吗？",
+      "part2": "登录帐户"
+    },
+    "message": {
+      "success": "激活链接已发送至您的邮箱",
+      "error": "您的注册有问题。"
+    }
+  },
+  "form": {
+    "email": "电子邮件",
+    "password": "密码",
+    "confirm": "确认密码"
+  },
+  "profileMenu": {
+    "notif": "通知",
+    "personalInfo": "个人信息",
+    "support": "支持",
+    "orders": "订单",
+    "logout": "登出"
+  },
+  "footer": {
+    "orderBtn": "命令",
+    "contactBtn": "联系我们"
+  },
+  "bottomNavigation": {
+    "home": "家",
+    "products": "产品",
+    "mag": "杂志",
+    "news": "消息"
+  },
+  "shoppingCard": {
+    "title": "购物卡",
+    "clearBtn": "清除购物卡",
+    "finalizeBtn": "敲定",
+    "emptyText": "!您的购物卡是空的",
+    "message": {
+      "success": "该产品已成功添加到购物车",
+      "error": "您必须登录才能将产品添加到购物车",
+      "clear": "您的购物车已成功清空"
+    }
+  },
+  "steps": {
+    "title": "订单注册指南",
+    "description": "要注册订单，请按以下步骤操作",
+    "one": "第一步",
+    "two": "第二步",
+    "three": "第三步",
+    "four": "第四步",
+    "stepOne": {
+      "title": "产品选择",
+      "description": "首先，从商店中选择您的产品"
+    },
+    "stepTwo": {
+      "title": "命令",
+      "description": "在下一步中，注册您的产品并在订单注册表中填写您的信息。"
+    },
+    "stepThree": {
+      "title": "Contract",
+      "description": "第三步，联系公司或等待我司专家的电话，然后亲自或亲自到公司签订合同。"
+    },
+    "stepFour": {
+      "title": "产品交付",
+      "description": "将与您进行必要的现金或免息分期付款安排，并将在指定的管理期限内将产品发送给您。"
+    }
+  },
+  "filter": {
+    "placeholder": "订购方式",
+    "newest": "最新的",
+    "oldest": "最老的",
+    "visited": "访问最多的站点"
+  },
+  "search": "搜索",
+  "available": "有现货",
+  "notAvailable": "库存结束",
+  "moreBtn": "产品介绍",
+  "videoBtn": "观看视频",
+  "loginSuccess": "您已成功登录",
+  "readMore": "阅读更多",
+  "post": "邮政",
+  "product": "产品",
+  "postCode": "邮政编码",
+  "fieldRequired": "这是必填栏",
+  "selectLang": "选择的语言",
+  "accManage": "帐户管理",
+  "validation": {
+    "confirm": "确认密码与密码不同",
+    "email": "输入的电子邮件无效",
+    "password": { "min": "密码必须至少为 12 个字符" }
+  },
+  "error": { "notFound": "网页未找到", "server": "服务器错误" },
+  "forgetPassword": {
+    "one": {
+      "message": { "success": "密码更改链接已成功发送至您的邮箱" },
+      "button": "提交",
+      "text": "注册您的电子邮件后，将通过电子邮件向您发送一个链接，单击该链接，您将被重定向到密码更改页面。",
+      "title": "第一步密码恢复"
+    },
+    "two": {
+      "button": "更改密码",
+      "message": { "success": "密码修改成功" },
+      "newPassword": "新密码",
+      "repeat": "重复密码",
+      "title": "第二步密码恢复"
+    }
+  },
+  "comments": {
+    "reply": "回复",
+    "cancel": "取消"
+  },
+  "freeCounseling": {
+    "description": "如需免费咨询我们的专家，请在下表中输入您的姓名和手机号码，以便我们的专家尽快与您联系。",
+    "phoneNumber": "电话号码",
+    "email": "电子邮件（可选）",
+    "name": "你的名字",
+    "submit": "提交",
+    "error": "发生错误",
+    "success": "您的消息已成功发送。",
+    "required": "必需"
+  }
+}
